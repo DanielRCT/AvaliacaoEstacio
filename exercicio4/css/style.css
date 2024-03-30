@@ -1,0 +1,192 @@
+* {
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid #DDDDDD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabela-brasileirao {
+    font-size: 13px;
+    color: #999999;
+    border-collapse: collapse;
+    margin-left: 30%;
+}
+
+.timeBr1, .timeBr2, .timeBr31, .timeBr4, .timeBr51 {
+    width: 30px !important;
+}
+
+.timeBr1 {
+    color: #003366;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border-top: solid 1px #DDDDDD;
+}
+
+.timeBr2 {
+    color: #1398BE;
+    font-size: 18px;
+    font-weight: bold;
+    border-top: solid 1px #DDDDDD;
+    text-align: center;
+}
+
+.timeBr3 {
+    color: #DE9800;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border-top: solid 1px #DDDDDD;
+}
+
+.timeBr4 {
+    color: #CCCCCC;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border-top: solid 1px #DDDDDD;
+}
+
+.timeBr5 {
+    color: #C91B04;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border-top: solid 1px #DDDDDD;
+}
+
+.fontTimes {
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    font-weight: bold;
+    border-top: solid 1px #DDDDDD;
+    width: 30% !important;
+}
+
+.tabela-colunas {
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+    border-top: solid 1px #DDDDDD;
+    width: 45px !important;
+}
+
+.pontos, .pontos1 {
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    background-color: #F7F7F7;
+    border-top: solid 1px #DDDDDD;
+}
+
+.demaisP, .demaisP2, .demaisP1, .demaisP21 {
+    font-size: 14px;
+    color: #666666;
+    font-weight: normal;
+    text-align: center;
+    border-top: solid 1px #DDDDDD;
+}
+
+.demaisP2, .demaisP21 {
+    background-color: #F7F7F7;
+    width: 35px;
+}
+
+.timeBr31, .timeBr51 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border-top: solid 2px #CCCCCC;
+}
+
+.fontTimes1 {
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    font-weight: bold;
+    border-top: solid 2px #CCCCCC;
+}
+
+.thick-border {
+    border-width: 4px;
+}
+
+.red-border {
+    border-color: red;
+}
+
+.orange-border {
+    border-color: #DE9800;
+}
+
+.blue-border {
+    border-color: #1398BE;
+}
+
+.dark-blue-border {
+    border-color: #003366;
+}
+
+.legendas1 {
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+    margin: auto;
+}
+
+.legendas2, .legendas3, .legendas4 {
+    font-size: 10px;
+    color: #555555;
+    font-weight: bold;
+    text-align: left;
+}
+
+.legendas {
+    font-size: 10px;
+    color: #a1a1a1;
+    font-weight: normal;
+    text-align: left;
+}
+
+.div.quadrado1 {
+    border: 4px solid #003366;
+}
+
+.div.quadrado2 {
+    border: 4px solid #1398BE;
+}
+
+.div.quadrado3 {
+    border: 4px solid #DE9800;
+}
+
+.div.quadrado4 {
+    border: 4px solid red;
+}
+
+th[colspan="12"] {
+    padding: 5px;
+}
+.quadrado {
+            width: 10px;
+            height: 10px;
+            display: inline-block;
+            margin-right: 5px;
+            margin-left: 5px;
+        }
+        .legendas {
+            font-weight: bold;
+            border-top: 1px solid #DDDDDD;
+            color:  #555555;
+        }
+
+        

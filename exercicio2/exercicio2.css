@@ -1,0 +1,15 @@
+h1, h2, h3{
+    color: red;
+  }
+  
+  body {
+      font-size: 10px;
+  }
+  
+  h1 {
+      font-family: Tahoma, Verdana, Arial, sans-serif;
+  }
+  
+  texto {
+    color: red;
+  }
